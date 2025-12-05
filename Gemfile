@@ -38,7 +38,7 @@ gem 'bcrypt', '~> 3.1.7'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'nokogiri' ‘, ~1.8’
+gem 'nokogiri', '~> 1.8'
 gem 'pg'
 gem 'haml-rails'
 gem 'pundit'
